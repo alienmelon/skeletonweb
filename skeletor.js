@@ -4,7 +4,7 @@ function skeleton_enable(){
 	var skeletor_doc_width;
 	var skeletor_doc_height;
 	var skeletor_timer;
-	var skeletor_path = "skeletonweb/skeletors/"
+	var skeletor_path = "skeletors/"
 	var skeleton_arr = ["IMG_SKELETON01.gif", "IMG_SKELETON02.gif", "IMG_SKELETON03.gif"];
 	var skeleton_msg_arr = ["THIS MODERN WEBSITE IS SKELETON ENABLED", "WELCOME TO THE SKELETON ENABLED WEB", "THIS WEBSITE SUPPORTS SKELETONS", "YOU ARE RUNNING A SKELETON ENABLED WEBSITE"];
 	var skeleton_cnt = 0;
