@@ -16,8 +16,8 @@ via any skeleton compatible FTP program.
   - Once uploaded, your server now has skeletons.
 
 2) To skeleton enable your website add the following line of skeleton enabled modern javascript code
-(preferably under the <title></title> tag as skeletons prefer this):
-  <script src="skeletonweb/skeletor.js"></script>
+(preferably under the < title > < /title > tag as skeletons prefer this):
+  <code> <script src="skeletonweb/skeletor.js"></script> </code>
   
   
 Troubleshooting:
